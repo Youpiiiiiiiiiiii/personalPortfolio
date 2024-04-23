@@ -202,6 +202,11 @@ body {
     animation: fadeInUp 2s ease forwards;
 }
 
+.skill-id{
+    justify-content: center;
+    align-items: center;
+}
+
 .skill-id img {
     width: 550px;
     height: auto;
@@ -228,10 +233,6 @@ body {
     animation: fadeInUp 2s ease forwards;
 }
 
-.contact-logo {
-    display: flex;
-    justify-content: space-between;
-}
 
 .contact a {
     color: #eaeaea;
